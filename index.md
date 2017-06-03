@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+개인정보 처리방침 
+CBR은 개인정보 보호법 제30조에 따라 정보주체의 개인정보를 보호하고 이와 관련한 고충을 신속하고 원활하게 처리할 수 있도록 하기 위하여 다음과 같이 개인정보 처리지침을 수립․공개합니다.  
+제1조(개인정보의 처리목적) CBR은 다음의 목적을 위하여 개인정보를 처리합니다. 처리하고 있는 개인정보는 다음의 목적 이외의 용도로는 이용되지 않으며, 이용 목적이 변경되는 경우에는 개인정보 보호법 제18조에 따라 별도의 동의를 받는 등 필요한 조치를 이행할 예정입니다.  
+제2조(개인정보의 처리 및 보유기간) ① CBR은 법령에 따른 개인정보 보유․이용기간 또는 정보주체로부터 개인정보를 수집시에 동의받은 개인정보 보유․이용기간 내에서 개인정보를 처리․보유합니다.  
+제3조(개인정보 보호책임자) ① CBR은 개인정보 처리에 관한 업무를 총괄해서 책임지고, 개인정보 처리와 관련한 정보주체의 불만처리 및 피해구제 등을 위하여 아래와 같이 개인정보 보호책임자를 지정하고 있습니다.  
+   ▶ 개인정보 보호책임자
+       부서명 : 개발부서
 
-You can use the [editor on GitHub](https://github.com/helpryeon/PrivacyPolicy/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+       담당자 : 최병련
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+       연락처 : help.ryeon@gmail.com
+제4조(권익침해 구제방법) 정보주체는 아래의 기관에 대해 개인정보 침해에 대한 피해구제, 상담 등을 문의하실 수 있습니다.  
 
-### Markdown
+  <아래의 기관은 회사와는 별개의 기관으로서, 회사의 자체적인 개인정보 불만처리, 피해구제 결과에 만족하지 못하시거나 보다 자세한 도움이 필요하시면 문의하여 주시기 바랍니다> 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+   ▶ 개인정보 침해신고센터 (한국인터넷진흥원 운영)
 
-```markdown
-Syntax highlighted code block
+       - 소관업무 : 개인정보 침해사실 신고, 상담 신청
 
-# Header 1
-## Header 2
-### Header 3
+       - 홈페이지 : privacy.kisa.or.kr
 
-- Bulleted
-- List
+       - 전화 : (국번없이) 118
 
-1. Numbered
-2. List
+       - 주소 : (138-950) 서울시 송파구 중대로 135 한국인터넷진흥원 개인정보침해신고센터 
+   ▶ 개인정보 분쟁조정위원회 (한국인터넷진흥원 운영)
 
-**Bold** and _Italic_ and `Code` text
+       - 소관업무 : 개인정보 분쟁조정신청, 집단분쟁조정 (민사적 해결)
 
-[Link](url) and ![Image](src)
-```
+       - 홈페이지 : privacy.kisa.or.kr
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+       - 전화 : (국번없이) 118
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/helpryeon/PrivacyPolicy/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+       - 주소 : (138-950) 서울시 송파구 중대로 135 한국인터넷진흥원 개인정보침해신고센터 
+   ▶ 대검찰청 사이버범죄수사단 : 02-3480-3573 (www.spo.go.kr) 
+   ▶ 경찰청 사이버테러대응센터 : 1566-0112 (www.netan.go.kr) 
